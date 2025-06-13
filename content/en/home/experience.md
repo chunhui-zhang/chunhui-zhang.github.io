@@ -26,7 +26,7 @@ experience:
   - title: Research Assistant
     company: McGill University, Intelligent Automation Lab
     company_url: ''
-    company_logo: media/icons/experience/mcgill.png
+    company_logo: media/icons/experience/HKUST-GZ.png
     location: Canada
     date_start: '2022-05-18'
     date_end: ''
@@ -36,7 +36,7 @@ experience:
   - title: NLP Algorithm Engineer
     company: Tsinghua University, THUNLP Lab 
     company_url: ''
-    company_logo: media/icons/experience/qhnlp.png
+    company_logo: media/icons/experience/CUHK-SZ.png
     location: China
     date_start: '2021-05-18'
     date_end: '2022-05-16'
@@ -46,7 +46,7 @@ experience:
   - title: CSCI-GA.1180 Course Tutor
     company: New York University (Courant Institute)
     company_url: ''
-    company_logo: media/icons/experience/torch.png
+    company_logo: media/icons/experience/IIE-CAS.jpg
     location: USA
     date_start: '2020-08-02'
     date_end: '2021-09-30'
@@ -56,7 +56,7 @@ experience:
   - title: Full-Stack Software Engineer Intern
     company: Amazon Web Services (AWS), Identity and Access Management
     company_url: ''
-    company_logo: media/icons/experience/aws.png
+    company_logo: media/icons/experience/agilex.png
     location: USA
     date_start: '2020-04-10'
     date_end: '2020-08-09'

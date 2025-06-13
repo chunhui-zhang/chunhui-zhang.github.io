@@ -24,7 +24,7 @@ date_format: Jan 2006
 
 experience:
   - title: Research Assistant
-    company: McGill University, Intelligent Automation Lab
+    company: The Hong Kong University of Science and Technology (Guangzhou)
     company_url: ''
     company_logo: media/icons/experience/HKUST-GZ.png
     location: Canada

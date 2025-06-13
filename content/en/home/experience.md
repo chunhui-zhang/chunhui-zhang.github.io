@@ -25,41 +25,41 @@ date_format: Jan 2006
 experience:
   - title: Research Assistant
     company: The Hong Kong University of Science and Technology (Guangzhou)
-    company_url: ''
+    company_url: 'http://gz-prod-test.sites2.ust.hk/zh-hans'
     company_logo: media/icons/experience/HKUST-GZ.png
-    location: Canada
+    location: China, Guangzhou
     date_start: '2023-07-01'
     date_end: ''
     description: |2-
         
 
-  - title: NLP Algorithm Engineer
-    company: Tsinghua University, THUNLP Lab 
-    company_url: ''
+  - title: Visiting Graduate Student
+    company: CUHK-Shenzhen, Shenzhen Research Institute of Big Data
+    company_url: 'https://www.cuhk.edu.cn/zh-hans'
     company_logo: media/icons/experience/CUHK-SZ.png
-    location: China
-    date_start: '2021-05-18'
-    date_end: '2022-05-16'
+    location: China, Shenzhen
+    date_start: '2020-09-01'
+    date_end: '2022-03-31'
     description: |2-
   
 
-  - title: CSCI-GA.1180 Course Tutor
-    company: New York University (Courant Institute)
-    company_url: ''
+  - title: Graduate Internship
+    company: Amazon Web Services (AWS), Identity and Access Management
+    company_url: 'https://www.iie.ac.cn/'
     company_logo: media/icons/experience/IIE-CAS.jpg
-    location: USA
-    date_start: '2020-08-02'
-    date_end: '2021-09-30'
+    location: China, Beijing
+    date_start: '2017-09-01'
+    date_end: '2018-08-31'
     description: |2-
 
-
-  - title: Full-Stack Software Engineer Intern
-    company: Amazon Web Services (AWS), Identity and Access Management
-    company_url: ''
+    
+  - title: Intern Algorithm Engineer
+    company: Songshan Lake International Robot Industry Park, AgileX
+    company_url: 'https://www.agilex.ai/'
     company_logo: media/icons/experience/agilex.png
-    location: USA
-    date_start: '2020-04-10'
-    date_end: '2020-08-09'
+    location: China, Dongguan
+    date_start: '2017-02-01'
+    date_end: '2017-06-30'
     description: |2-
 
 

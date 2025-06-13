@@ -24,9 +24,10 @@ highlight_name: true
 
 
 interests:
-  - AI research
-  - Multi-modal learning
-  - Visual tracking
+  - Artificial Intelligence
+  - Multimodal Learning
+  - Visual Tracking
+  - Embodied Intelligence
 
 # interpret as a text block
 #interests2: | 

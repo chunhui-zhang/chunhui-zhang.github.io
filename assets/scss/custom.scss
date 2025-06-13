@@ -1,5 +1,15 @@
 // Override this file to add your own SCSS styling.
 
+
+.navbar .navbar-nav .nav-link {
+  font-size: 1rem;
+}
+
+.dark a, .dark h3.article-title a:hover {
+  //color: #f76497;
+  color: #1565c0;
+}
+
 .experience-icon-image {
   width: 80px;
   max-height: 80px;

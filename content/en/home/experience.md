@@ -28,7 +28,7 @@ experience:
     company_url: ''
     company_logo: media/icons/experience/HKUST-GZ.png
     location: Canada
-    date_start: '2023-07'
+    date_start: '2023-07-01'
     date_end: ''
     description: |2-
         

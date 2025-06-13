@@ -31,7 +31,7 @@ design:
 pubs_list:
   
   - title: "Audio-driven Talking Head Video Generation with Diffusion Model"
-    authors: "Yizhe Zhu, Chunhui Zhang, Qiong Liu, Xi Zhou"
+    authors: "Yizhe Zhu, **Chunhui Zhang**, Qiong Liu, Xi Zhou"
     journal: "ICASSP 2023 (Co-first author)"
     links:
       - name: PDF(arXiv)
@@ -44,7 +44,7 @@ pubs_list:
   
   
   - title: "Generating and Weighting Semantically Consistent Sample Pairs for Ultrasound Contrastive Learning"
-    authors: "Yixiong Chen, Chunhui Zhang, Chris H. Q. Ding, Li Liu"
+    authors: "Yixiong Chen, **Chunhui Zhang**, Chris H. Q. Ding, Li Liu"
     journal: "IEEE TMI 2023"
     links:
       - name: PDF(arXiv)
@@ -58,7 +58,7 @@ pubs_list:
   
   
   - title: "HiCo: Hierarchical Contrastive Learning for Ultrasound Video Model Pretraining"
-    authors: "Chunhui Zhang, Yixiong Chen, Li Liu, Qiong Liu, Xi Zhou"
+    authors: "**Chunhui Zhang**, Yixiong Chen, Li Liu, Qiong Liu, Xi Zhou"
     journal: "ACCV 2022"
     links:
       - name: PDF(arXiv)
@@ -74,7 +74,7 @@ pubs_list:
   
   
   - title: "WebUAV-3M: A Benchmark for Unveiling the Power of Million-Scale Deep UAV Tracking"
-    authors: "Chunhui Zhang, Guanjie Huang, Li Liu, Shan Huang, Yinan Yang, Xiang Wan, Shiming Ge, Dacheng Tao"
+    authors: "**Chunhui Zhang**, Guanjie Huang, Li Liu, Shan Huang, Yinan Yang, Xiang Wan, Shiming Ge, Dacheng Tao"
     journal: "IEEE TPAMI 2022 (Co-first author) "
     links:
       - name: PDF(arXiv)
@@ -90,7 +90,7 @@ pubs_list:
   
   
   - title: "USCL: Pretraining Deep Ultrasound Image Diagnosis Model through Video Contrastive Representation Learning"
-    authors: "Yixiong Chen, Chunhui Zhang, Li Liu, Cheng Feng, Changfeng Dong, Yongfang Luo, Xiang Wan"
+    authors: "Yixiong Chen, **Chunhui Zhang**, Li Liu, Cheng Feng, Changfeng Dong, Yongfang Luo, Xiang Wan"
     journal: "MICCAI 2021 (Co-first author, Oral)"
     links:
       - name: PDF(arXiv)
@@ -106,7 +106,7 @@ pubs_list:
   
   
   - title: "Student Network Learning via Evolutionary Knowledge Distillation"
-    authors: "Kangkai Zhang, Chunhui Zhang, Shikun Li, Dan Zeng, Shiming Ge"
+    authors: "Kangkai Zhang, **Chunhui Zhang**, Shikun Li, Dan Zeng, Shiming Ge"
     journal: "IEEE TCSVT 2021"
     links:
       - name: PDF(baidu)
@@ -121,7 +121,7 @@ pubs_list:
   
   
   - title: "Cascaded Correlation Refinement for Robust Deep Tracking"
-    authors: "Shiming Ge, Chunhui Zhang, Shikun Li, Dan Zeng, Dacheng Tao"
+    authors: "Shiming Ge, **Chunhui Zhang**, Shikun Li, Dan Zeng, Dacheng Tao"
     journal: "IEEE TNNLS 2021 (Student First Author)"
     links:
       - name: PDF(baidu)
@@ -137,7 +137,7 @@ pubs_list:
   
   
   - title: "Accurate UAV Tracking with Distance-Injected Overlap Maximization"
-    authors: "Chunhui Zhang, Shiming Ge, Kangkai Zhang, Dan Zeng"
+    authors: "**Chunhui Zhang**, Shiming Ge, Kangkai Zhang, Dan Zeng"
     journal: "ACM MM 2020 (Oral)"
     links:
       - name: PDF(baidu)
@@ -156,7 +156,7 @@ pubs_list:
   
   
   - title: "Distilling Channels for Efficient Deep Tracking"
-    authors: "Shiming Ge, Zhao Luo, Chunhui Zhang, Yingying Hua, Dacheng Tao"
+    authors: "Shiming Ge, Zhao Luo, **Chunhui Zhang**, Yingying Hua, Dacheng Tao"
     journal: " IEEE TIP 2020"
     links:
       - name: PDF(baidu)
@@ -173,7 +173,7 @@ pubs_list:
   
   
   - title: "Coupled-View Deep Classifier Learning from Multiple Noisy Annotators"
-    authors: "Shikun Li, Shiming Ge, Yingying Hua, Chunhui Zhang, Hao Wen, Tengfei Liu, Weiqiang Wang"
+    authors: "Shikun Li, Shiming Ge, Yingying Hua, **Chunhui Zhang**, Hao Wen, Tengfei Liu, Weiqiang Wang"
     journal: " AAAI 2020"
     links:
       - name: PDF(baidu)
@@ -190,7 +190,7 @@ pubs_list:
   
   
   - title: "Robust Deep Tracking with Two-step Augmentation Discriminative Correlation Filters"
-    authors: "Chunhui Zhang, Shiming Ge, Yingying Hua, Dan Zeng"
+    authors: "**Chunhui Zhang**, Shiming Ge, Yingying Hua, Dan Zeng"
     journal: "ICME 2019"
     links:
       - name: PDF(baidu)

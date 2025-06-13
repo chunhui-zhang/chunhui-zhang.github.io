@@ -44,7 +44,7 @@ experience:
   
 
   - title: Graduate Internship
-    company: Amazon Web Services (AWS), Identity and Access Management
+    company: State Key Laboratory of Information Security, IIE, CAS
     company_url: 'https://www.iie.ac.cn/'
     company_logo: media/icons/experience/IIE-CAS.jpg
     location: China, Beijing

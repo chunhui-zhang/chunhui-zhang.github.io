@@ -3,12 +3,17 @@ bio:
 
 education:
   courses:
-  - course: 信息与通信工程
-    institution:   Shanghai Jiao Tong University
-    year: 2023 -  
-    img: /img/shjd.png
+  - course: Information and Communication Engineering
+    institution: Shanghai Jiao Tong University
+    year: 2022 -  present
+    img: /img/sjtu.png
+
+  - course: Master's Degree in Computer Technology
+    institution: Hunan University of Science and Technology
+    year: 2017 - 2020
+    img: /img/UCAS.jpg
     
-  - course: B.S. degree on Mathematics and Computational Science 
+  - course: Bachelor's Degree in Information and Computing Science
     institution: Hunan University of Science and Technology
     year: 2012 - 2016
     img: /img/hnkd.png

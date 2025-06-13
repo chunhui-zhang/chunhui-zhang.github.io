@@ -27,8 +27,8 @@ experience:
     company: The Hong Kong University of Science and Technology (Guangzhou)
     company_url: ''
     company_logo: media/icons/experience/HKUST-GZ.png
-    location: China
-    date_start: '2023-07'
+    location: Canada
+    date_start: '2022-05-18'
     date_end: ''
     description: |2-
         

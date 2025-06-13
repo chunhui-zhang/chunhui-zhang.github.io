@@ -3,17 +3,17 @@ bio:
 
 education:
   courses:
-  - course: Ph.D. Degree in Information and Communication Engineering
+  - course: Ph.D. of Information and Communication Engineering
     institution: Shanghai Jiao Tong University
     year: 2022 -  present
     img: /img/sjtu.png
 
-  - course: Master's Degree in Computer Technology
+  - course: Master of Computer Technology
     institution: University of Chinese Academy of Sciences
     year: 2017 - 2020
     img: /img/UCAS.jpg
     
-  - course: Bachelor's Degree in Information and Computing Science
+  - course: Bachelor of Information and Computing Science
     institution: Hunan University of Science and Technology
     year: 2012 - 2016
     img: /img/hnkd.png

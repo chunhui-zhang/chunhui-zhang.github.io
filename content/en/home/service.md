@@ -26,19 +26,19 @@ experience:
   - title: Reviewer of Multiple Journals and Conferences
     company: IEEE Transactions on Image Processing, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Intelligent Transportation Systems, Pattern Recognition, NeurIPS, CVPR, ICCV, ECCV, AAAI, ACM MM, IJCAI, ICASSP, etc.
     company_url: ''
-    company_logo: media/icons/service/openreview.jpg
-    location: Toronto, Canada
+    company_logo: media/icons/service/openreview.png
+    location: China
     date_start: '2019-09-01'
     date_end: ''
     description: |2-
       
-  - title: Peer Mentor
-    company: Hart House Mentorship Program
+  - title: Student Member
+    company: IEEE 
     company_url: ''
-    company_logo: media/icons/service/hart-house.png
-    location: Toronto, Canada
-    date_start: '2022-10-05'
-    date_end: '2023-03-20'
+    company_logo: media/icons/service/IEEE.jpg
+    location: USA
+    date_start: '2022-01-01'
+    date_end: ''
     description: |2-
         
 

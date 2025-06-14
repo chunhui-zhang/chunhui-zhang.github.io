@@ -21,7 +21,7 @@ education:
 
     
 highlight_name: true
-- name: Chunhui Zhang
+
 
 interests:
   - Artificial Intelligence
@@ -39,6 +39,7 @@ interests:
 #  - Robust LLM Applications
 
 organizations:
+- name: Chunhui Zhang
 - name: Shanghai Jiao Tong University, China
   url: https://www.sjtu.edu.cn/
   

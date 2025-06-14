@@ -66,7 +66,7 @@ social:
 
 - icon: cv
   icon_pack: ai
-  link: https://x.com/tipengchen
+  link: 'https://chunhui-zhang.github.io/'
 
 #- icon: instagram
 #  icon_pack: fab

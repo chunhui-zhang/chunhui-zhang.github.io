@@ -1,6 +1,7 @@
 ---
-# Display name
-title: Chunhui Zhang
+# Full name (for SEO)
+first_name: Shiung Wu
+last_name: Chien
 
 bio: 
 

@@ -65,7 +65,7 @@ social:
   link: https://github.com/983632847
 
 - icon: cv
-  icon_pack: fab
+  icon_pack: ai
   link: https://x.com/tipengchen
 
 #- icon: instagram

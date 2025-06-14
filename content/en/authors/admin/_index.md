@@ -39,6 +39,7 @@ interests:
 #  - Robust LLM Applications
 
 organizations:
+name: Chunhu Zhang
 - name: Shanghai Jiao Tong University, China
 #  url: https://www.gwu.edu/
   

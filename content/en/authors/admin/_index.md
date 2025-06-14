@@ -63,7 +63,11 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/983632847
-  
+
+- icon: cv
+  icon_pack: fab
+  link: https://x.com/tipengchen
+
 #- icon: instagram
 #  icon_pack: fab
 #  link:  https://www.instagram.com/chentipeng/

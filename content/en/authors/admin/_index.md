@@ -21,7 +21,7 @@ education:
 
     
 highlight_name: true
-
+name: Chunhui Zhang
 
 interests:
   - Artificial Intelligence
@@ -37,8 +37,6 @@ interests:
 #    - in-context control
 #
 #  - Robust LLM Applications
-
-title: Chunhui Zhang
 
 organizations:
 - name: Shanghai Jiao Tong University, China

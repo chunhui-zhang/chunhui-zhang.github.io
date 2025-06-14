@@ -79,9 +79,9 @@ features:
     gravatar: false
     shape: circle
   comment:
-    provider: 'Chunhui Zhang'
+    # provider: 'Chunhui Zhang'
     disqus:
-      shortname: 'Chunhui Zhang'
+      # shortname: 'Chunhui Zhang'
       show_count: false
     commento:
       url: ''

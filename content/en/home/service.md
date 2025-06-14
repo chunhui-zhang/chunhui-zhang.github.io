@@ -26,7 +26,7 @@ experience:
   - title: Reviewer of Multiple Journals and Conferences
     company: IEEE Transactions on Image Processing, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Intelligent Transportation Systems, Pattern Recognition, NeurIPS, CVPR, ICCV, ECCV, AAAI, ACM MM, IJCAI, ICASSP, etc.
     company_url: ''
-    company_logo: media/icons/service/openreview.png
+    company_logo: media/icons/service/openreview.jpg
     location: China
     date_start: '2019-09-01'
     date_end: ''

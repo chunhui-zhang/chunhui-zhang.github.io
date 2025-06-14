@@ -38,6 +38,8 @@ interests:
 #
 #  - Robust LLM Applications
 
+title: Chunhui Zhang
+
 organizations:
 - name: Shanghai Jiao Tong University, China
   url: https://www.sjtu.edu.cn/

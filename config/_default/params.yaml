@@ -81,7 +81,7 @@ features:
   comment:
 #    provider: 'disqus'
     disqus:
-#      shortname: ''
+      shortname: 'Chunhui Zhang'
       show_count: false
     commento:
       url: ''

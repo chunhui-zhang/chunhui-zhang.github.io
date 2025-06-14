@@ -1,4 +1,8 @@
 ---
+---
+# Display name
+title: Chunhui Zhang
+
 bio: 
 
 education:
@@ -39,7 +43,6 @@ interests:
 #  - Robust LLM Applications
 
 organizations:
-- name: Chunhui Zhang
 - name: Shanghai Jiao Tong University, China
   url: https://www.sjtu.edu.cn/
   

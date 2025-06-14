@@ -79,7 +79,7 @@ features:
     gravatar: false
     shape: circle
   comment:
-#    provider: 'disqus'
+    provider: 'Chunhui Zhang'
     disqus:
       shortname: 'Chunhui Zhang'
       show_count: false

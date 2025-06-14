@@ -40,7 +40,7 @@ interests:
 
 organizations:
 - name: Shanghai Jiao Tong University, China
-- url: https://www.sjtu.edu.cn/
+  url: https://www.sjtu.edu.cn/
   
 role: Ph.D. Student 
 

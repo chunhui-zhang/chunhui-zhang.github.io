@@ -1,7 +1,4 @@
 ---
-# Full name (for SEO)
-title: Chunhui Zhang
-
 
 bio: 
 

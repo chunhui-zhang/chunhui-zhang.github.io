@@ -21,7 +21,7 @@ education:
 
     
 highlight_name: true
-name: Chunhui Zhang
+- name: Chunhui Zhang
 
 interests:
   - Artificial Intelligence

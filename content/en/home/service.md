@@ -21,14 +21,15 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 experience:
-  - title: Workshop Support (Data Analytics)
-    company: STEM Streams | Society for Canadian Women in Science and Technology
+  - title: Reviewer of Multiple Journals and Conferences
+    company: IEEE Transactions on Image Processing, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Intelligent Transportation Systems, Pattern Recognition, NeurIPS, CVPR, ICCV, ECCV, AAAI, ACM MM, IJCAI, ICASSP, etc.
     company_url: ''
-    company_logo: media/icons/service/SCWIST.png
+    company_logo: media/icons/service/openreview.jpg
     location: Toronto, Canada
-    date_start: '2022-03-01'
-    date_end: '2023-03-28'
+    date_start: '2019-09-01'
+    date_end: ''
     description: |2-
       
   - title: Peer Mentor

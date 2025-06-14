@@ -2,6 +2,7 @@
 # Full name (for SEO)
 title: Chunhui Zhang
 
+
 bio: 
 
 education:
@@ -20,7 +21,6 @@ education:
     institution: Hunan University of Science and Technology
     year: 2012 - 2016
     img: /img/hnkd.png
-
 
     
 highlight_name: true
@@ -79,7 +79,7 @@ social:
 
 superuser: true
 
-title: 
+title: Chunhui Zhang
 
 ---
 
